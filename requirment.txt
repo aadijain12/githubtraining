@@ -1,0 +1,4 @@
+emoji
+type option
+color
+vibrant
